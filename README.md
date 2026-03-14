@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Days](https://img.shields.io/badge/Challenge-100%20Days-brightgreen)
-![Focus](https://img.shields.io/badge/Focus-Systems%20Thinking-orange)
-![Status](https://img.shields.io/badge/Progress-Complete-success)
+![Challenge](https://img.shields.io/badge/Challenge-100%20Days-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Focus](https://img.shields.io/badge/Focus-Systems%20Engineering-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 # 🐍 100 Days of Python — From Syntax to Systems
