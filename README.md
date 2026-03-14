@@ -15,6 +15,14 @@ Each phase represents a shift in mindset — from learning Python as a language 
 
 ---
 
+## 📑 Table of Contents
+
+- [How to Navigate This Repository](#-how-to-navigate-this-repository)
+- [Phase Overview](#-phase-overview)
+- [Final Note](#-final-note)
+- [License](#-license)
+---
+
 ## 📘 How to Navigate This Repository
 
 Each day of the journey is committed with structured messages.
