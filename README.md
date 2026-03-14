@@ -176,3 +176,11 @@ If you are also learning Python, feel free to explore the repository and follow 
 Consistency beats intensity.
 
 One day at a time.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
