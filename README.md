@@ -168,7 +168,8 @@ This repository is not just a record of 100 days.
 It is a record of a mindset shift.
 
 **From:** Learning Python  
-**To:** Thinking like an engineer who builds systems that last.
+**To:** Thinking like an engineer who builds systems that last.  
+
 ---
 If you are also learning Python, feel free to explore the repository and follow along.
 
