@@ -169,3 +169,9 @@ It is a record of a mindset shift.
 
 **From:** Learning Python  
 **To:** Thinking like an engineer who builds systems that last.
+---
+If you are also learning Python, feel free to explore the repository and follow along.
+
+Consistency beats intensity.
+
+One day at a time.
