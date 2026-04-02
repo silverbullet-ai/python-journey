@@ -15,7 +15,7 @@ Each phase represents a shift in mindset — from learning Python as a language 
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [How to Navigate This Repository](#-how-to-navigate-this-repository)
 - [Phase Overview](#-phase-overview)
@@ -23,7 +23,7 @@ Each phase represents a shift in mindset — from learning Python as a language 
 - [License](#-license)
 ---
 
-## 📘 How to Navigate This Repository
+## How to Navigate This Repository
 
 Each day of the journey is committed with structured messages.
 
@@ -50,11 +50,11 @@ This makes it easy to:
 
 ---
 
-# 🧭 Phase Overview
+# Phase Overview
 
 ---
 
-## 🔹 Phase 1 — Foundations of Thought (Days 0–25)
+## Phase 1 — Foundations of Thought (Days 0–25)
 
 **Focus:** Core Python fundamentals and structured thinking  
 
@@ -74,7 +74,7 @@ Solving Problems → Writing scripts
 
 ---
 
-## 🧭 Phase 2 — Foundations of Objects and Design (Days 26–50)
+## Phase 2 — Foundations of Objects and Design (Days 26–50)
 
 Phase 2 changed how I think about Python at a structural level.
 
@@ -109,7 +109,7 @@ Writing scripts	 → Designing systems
 
 ---
 
-## 🧭 Phase 3 — Python in the Real World (Days 51–75)
+## Phase 3 — Python in the Real World (Days 51–75)
 
 Phase 3 changed how I think about Python under real-world constraints.
 
@@ -135,7 +135,7 @@ This phase replaced idealism with pragmatism — teaching that real-world softwa
 
 ---
 
-## 🧭 Phase 4 — Professional Python  (Days 76–100)
+## Phase 4 — Professional Python  (Days 76–100)
 
 Phase 4 changed how I think about professional Python development.
 
@@ -170,7 +170,7 @@ True professionalism in software is not measured by how much code one can write 
 
 ---
 
-# 🎯 Final Note
+# Final Note
 
 This repository is not just a record of 100 days.  
 It is a record of a mindset shift.
@@ -187,7 +187,7 @@ One day at a time.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
