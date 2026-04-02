@@ -11,7 +11,7 @@ This phase reshaped my thinking from *clean design* to **production-ready engine
 
 ---
 
-## 🎯 Phase Objective
+## Phase Objective
 
 By the end of Phase 3, I aimed to:
 
@@ -24,7 +24,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-## 📅 Phase Duration
+## Phase Duration
 
 - **Day 51 → Day 75**  
 - **Total Days:** 25  
@@ -32,9 +32,9 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### 🔹 Performance & Complexity Thinking
+### Performance & Complexity Thinking
 - Algorithmic complexity (Big-O)
 - Worst-case reasoning
 - Time vs space trade-offs
@@ -43,7 +43,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Memory & Resource Discipline
+### Memory & Resource Discipline
 - Space complexity
 - Hidden memory costs
 - Generators vs lists
@@ -53,7 +53,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Iteration, Pipelines & Streaming
+### Iteration, Pipelines & Streaming
 - Itertools and efficient loops
 - Lazy evaluation pipelines
 - Generator-based workflows
@@ -62,7 +62,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Concurrency Fundamentals
+### Concurrency Fundamentals
 - Concurrency vs parallelism (mental models)
 - I/O-bound vs CPU-bound tasks
 - Python’s execution model and the GIL
@@ -71,7 +71,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Thread-Safe Design
+### Thread-Safe Design
 - Locks and why they are risky
 - Avoiding shared mutable state
 - Message passing with queues
@@ -80,7 +80,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Async Programming
+### Async Programming
 - Async / await mental models
 - Event loop behavior
 - Writing async code with `asyncio`
@@ -90,7 +90,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-### 🔹 Real-World Concurrency Design
+### Real-World Concurrency Design
 - Choosing between sync, threads, async, multiprocessing
 - Combining concurrency models responsibly
 - Designing systems by workload type
@@ -98,7 +98,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-## 🛠️ Practice & Integration
+## Practice & Integration
 
 - Day-by-day structured learning
 - Concept-first notes before implementation
@@ -109,7 +109,7 @@ By the end of Phase 3, I aimed to:
 
 ---
 
-## 🧪 Phase 3 Capstone (Day 75)
+## Phase 3 Capstone (Day 75)
 
 ### Real-World Concurrency Design
 - Async orchestration of I/O-bound tasks
@@ -122,7 +122,7 @@ This capstone focused on **choosing the right model**, not using all models.
 
 ---
 
-## 🧭 Phase 3 Takeaway
+## Phase 3 Takeaway
 
 Phase 3 changed how I think about Python systems in reality.
 
