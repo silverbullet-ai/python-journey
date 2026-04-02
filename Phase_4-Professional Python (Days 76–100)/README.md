@@ -10,7 +10,7 @@ This phase reshaped my thinking from engineering systems that work to engineerin
 
 ---
 
-## 🎯 Phase Objective
+## Phase Objective
 
 By the end of Phase 4, I aimed to:
 
@@ -26,7 +26,7 @@ By the end of Phase 4, I aimed to:
 
 ---
 
-## 📅 Phase Duration
+## Phase Duration
 
 **Day 76 → Day 100**  
 **Total Days:** 25  
@@ -34,9 +34,9 @@ By the end of Phase 4, I aimed to:
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### 🔹 Testing Discipline
+### Testing Discipline
 
 - Unit testing with `unittest`
 - Assertions and edge-case thinking
@@ -51,7 +51,7 @@ It became protection.
 
 ---
 
-### 🔹 Debugging & Observability
+### Debugging & Observability
 
 - Reading tracebacks correctly
 - Understanding failure context
@@ -63,7 +63,7 @@ Errors became signals, not surprises.
 
 ---
 
-### 🔹 Packaging & Dependency Management
+### Packaging & Dependency Management
 
 - `pyproject.toml` fundamentals
 - Editable installs (`pip install -e .`)
@@ -77,7 +77,7 @@ It became installable software.
 
 ---
 
-### 🔹 Tooling & Code Quality
+### Tooling & Code Quality
 
 - Formatters, linters, and type awareness (conceptual foundation)
 - Tooling as guardrails, not authority
@@ -89,7 +89,7 @@ Code quality became systematic, not emotional.
 
 ---
 
-### 🔹 CI/CD & Quality Gates
+### CI/CD & Quality Gates
 
 - Continuous Integration mental models
 - Failing fast and red builds
@@ -101,7 +101,7 @@ CI became a safety net, not ceremony.
 
 ---
 
-### 🔹 Professional Workflow Thinking
+### Professional Workflow Thinking
 
 - Code review mindset
 - Separating personal preference from correctness
@@ -113,7 +113,7 @@ Development became collaborative, not isolated.
 
 ---
 
-## 🛠️ Practice & Integration
+## Practice & Integration
 
 - Day-by-day structured implementation
 - Concept-first notes before coding
@@ -129,7 +129,7 @@ Nothing was accidental.
 
 ---
 
-## 🧪 Phase 4 Capstone (Days 96–100)
+## Phase 4 Capstone (Days 96–100)
 
 ### CLI Task Manager — Professionally Structured
 
@@ -157,7 +157,7 @@ It emphasized discipline over complexity.
 
 ---
 
-## 🧭 Phase 4 Takeaway
+## Phase 4 Takeaway
 
 Phase 4 changed how I think about professional Python development.
 
