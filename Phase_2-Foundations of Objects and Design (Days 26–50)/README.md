@@ -9,7 +9,7 @@ This phase reshaped my thinking from *procedural scripts* to *object-oriented de
 
 ---
 
-## 🎯 Phase Objective
+## Phase Objective
 
 By the end of Phase 2, I aimed to:
 
@@ -22,7 +22,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-## 📅 Phase Duration
+## Phase Duration
 
 - **Day 26 → Day 50**  
 - **Total Days:** 25  
@@ -30,9 +30,9 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### 🔹 Python Object Foundations
+### Python Object Foundations
 - Python object model (identity, type, value)
 - Variables as references
 - Mutability vs immutability
@@ -40,7 +40,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-### 🔹 Core Object-Oriented Programming
+### Core Object-Oriented Programming
 - Classes & instances
 - Constructors (`__init__`) and `self`
 - Instance variables vs class variables
@@ -49,7 +49,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-### 🔹 OOP Design Principles
+### OOP Design Principles
 - Composition vs inheritance
 - Inheritance and `super()`
 - Method overriding
@@ -58,7 +58,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-### 🔹 Python Internals & Expressiveness
+### Python Internals & Expressiveness
 - Magic (dunder) methods
 - `__str__`, `__repr__`, and object comparisons
 - Operator overloading
@@ -67,7 +67,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-### 🔹 Execution Model & Control Flow
+### Execution Model & Control Flow
 - Iterables and iterators
 - Generators and lazy execution
 - Function decorators
@@ -76,7 +76,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-### 🔹 Design, Refactoring & Robust Systems
+### Design, Refactoring & Robust Systems
 - Mini OOP design patterns
 - Refactoring procedural code into OOP
 - Error handling in object-oriented systems
@@ -85,7 +85,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-## 🛠️ Practice & Integration
+## Practice & Integration
 
 - Daily structured coding
 - Concept-first notes with implementation
@@ -95,7 +95,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-## 🧪 Phase 2 Mini & Final Projects
+## Phase 2 Mini & Final Projects
 
 ### Mini OOP Project (Day 49)
 - Student Record Manager (OOP version)
@@ -113,7 +113,7 @@ By the end of Phase 2, I aimed to:
 
 ---
 
-## 🧭 Phase 2 Takeaway
+## Phase 2 Takeaway
 
 Phase 2 changed how I think about Python at a structural level.
 
