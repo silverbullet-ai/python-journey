@@ -7,7 +7,7 @@ It was about **building the correct way of thinking**, understanding how Python 
 
 ---
 
-## 🎯 Phase Objective
+## Phase Objective
 
 By the end of Phase 1, I aimed to:
 
@@ -18,7 +18,7 @@ By the end of Phase 1, I aimed to:
 
 ---
 
-## 📅 Phase Duration
+## Phase Duration
 
 * **Day 0 → Day 25**
 * Total Days: **26**
@@ -26,9 +26,9 @@ By the end of Phase 1, I aimed to:
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### 🔹 Core Programming Concepts
+### Core Programming Concepts
 
 * Variables \& data types
 * Input \& output
@@ -37,7 +37,7 @@ By the end of Phase 1, I aimed to:
 * Loops (for, while, nested loops)
 * Loop control statements
 
-### 🔹 Functions \& Logic
+### Functions \& Logic
 
 * Defining and calling functions
 * Function arguments (positional, default, keyword)
@@ -45,33 +45,33 @@ By the end of Phase 1, I aimed to:
 * Variable scope (local vs global)
 
 
-### 🔹 Data Structures
+### Data Structures
 
 * Lists (methods, slicing, copying)
 * Tuples (immutability)
 * Sets (unique collections \& operations)
 * Dictionaries (key–value data, nested dictionaries)
 
-### 🔹 Strings
+### Strings
 
 * String operations \& methods
 * String slicing
 * Formatting
 * Common string problems \& practice
 
-### 🔹 Error Handling
+### Error Handling
 
 * try / except
 * Handling common runtime errors
 * Writing safe, crash-free programs
 
-### 🔹 File Handling
+### File Handling
 
 * Reading \& writing files
 * Line-by-line processing
 * File-based mini problems
 
-### 🔹 Modules
+### Modules
 
 * Using built-in modules
 * import, from … import
@@ -80,7 +80,7 @@ By the end of Phase 1, I aimed to:
 
 ---
 
-## 🛠️ Practice \& Integration
+## Practice \& Integration
 
 * Daily hands-on coding
 * Mini practice problems
@@ -96,7 +96,7 @@ By the end of Phase 1, I aimed to:
 
 ---
 
-## 🧭 Phase 1 Takeaway
+## Phase 1 Takeaway
 
 Phase 1 changed how I **translate problem-solving into code**.
 
