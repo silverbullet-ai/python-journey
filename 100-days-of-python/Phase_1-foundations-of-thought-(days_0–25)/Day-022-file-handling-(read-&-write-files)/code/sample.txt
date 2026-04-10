@@ -1,0 +1,3 @@
+Python is powerful.
+Learning Python step by step.
+File handling is important.

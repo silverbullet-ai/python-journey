@@ -1,0 +1,4 @@
+Python is powerful
+Python is easy
+Learning python step by step
+File handling with Python
