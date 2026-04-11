@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Progress](https://img.shields.io/badge/Progress-100%25-success)
 ![Focus](https://img.shields.io/badge/Focus-Systems%20Thinking-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 This repository documents my **100 Days of Python journey** — not as a challenge of speed, but as a deliberate process of transformation.
 
@@ -190,5 +190,4 @@ If you are also learning Python, feel free to explore the repository and follow 
 
 ## License
 
-This project is licensed under the MIT License.
-See the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENSE).
